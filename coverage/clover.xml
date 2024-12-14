@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1734216891506" clover="3.2.0">
+  <project timestamp="1734216891506" name="All files">
+    <metrics statements="12" coveredstatements="12" conditionals="9" coveredconditionals="8" methods="2" coveredmethods="2" elements="23" coveredelements="22" complexity="0" loc="12" ncloc="12" packages="1" files="1" classes="1"/>
+    <file name="translator.js" path="C:\Users\Pelumi Isola\Desktop\Pelumi\language-translator\translator.js">
+      <metrics statements="12" coveredstatements="12" conditionals="9" coveredconditionals="8" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="5" count="4" type="stmt"/>
+      <line num="6" count="4" type="stmt"/>
+      <line num="10" count="4" type="stmt"/>
+      <line num="11" count="4" type="stmt"/>
+      <line num="28" count="2" type="cond" truecount="5" falsecount="0"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="35" count="3" type="cond" truecount="2" falsecount="1"/>
+      <line num="36" count="3" type="stmt"/>
+      <line num="37" count="3" type="stmt"/>
+      <line num="42" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
